@@ -8,4 +8,4 @@ if number_day == '1' or number_day == '2' or number_day == '3'or number_day == '
 elif number_day=='6' or  number_day=='7':
     print('Это выходной день.')  
 else:
-    print('Ошибка: такого дня недели нет.')  
+    print('Ошибка: такого дня недели нет.')   
